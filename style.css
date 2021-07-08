@@ -744,10 +744,11 @@ footer span a:hover{
     }
 
     .contact-icon {
-        margin: 1.5rem;
-        width: 25rem;
-        height: 10rem;
+        min-width: 5rem;
+        height: 6rem;
         transition: transform 0.2s ease-out;
+        transition: transform 0.2s ease-out;
+        margin-left: 0;
     }
     .contact-icon:hover {
         transform: scale(1.2);
