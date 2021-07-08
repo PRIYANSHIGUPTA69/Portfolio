@@ -751,12 +751,15 @@ footer span a:hover{
         transition: transform 0.2s ease-out;
         margin-left: 20px;
     }
+    .github-contact-icon.contact-icon{
+        margin-left: 25px;
+    }
     .contact-icon:hover {
         transform: scale(1.2);
         cursor: pointer;
     }
     .contact-icon > img {
-        width: 200%;
+       
         height: 100%;
     }
 }
