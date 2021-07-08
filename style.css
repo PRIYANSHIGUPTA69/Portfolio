@@ -744,9 +744,9 @@ footer span a:hover{
     }
 
     .contact-icon {
-        min-width: 5rem;
-        width: 5rem;
-        height: 4rem;
+        min-width: 45px;
+        width: 45px;
+        height: 45px;
         transition: transform 0.2s ease-out;
         transition: transform 0.2s ease-out;
         margin-left: 0;
