@@ -44,7 +44,7 @@ $(document).ready(function(){
     });
     $(".resume").click( function(e) {
         let a = document.createElement("a");
-        a.href = "./cv_folder/priyanshigupta 8218124795 resume.pdf";
+        a.href = "./cv_folder/priyanshi gupta resume.pdf";
         a.download = "Priyanshi Gupta";
         a.click();
         a.remove();
