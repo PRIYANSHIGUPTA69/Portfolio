@@ -739,8 +739,8 @@ footer span a:hover{
 
     .contact-icon {
         margin: 1.5rem;
-        width: 6rem;
-        height: 6rem;
+        width: 10rem;
+        height: 10rem;
         transition: transform 0.2s ease-out;
     }
     .contact-icon:hover {
