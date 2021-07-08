@@ -49,6 +49,12 @@ $(document).ready(function(){
         a.click();
         a.remove();
     })
+    var typed = new Typed(".typing-2", {
+        strings: ["Web Developer", "Programmer"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
     $('.carousel').owlCarousel({
         margin: 20,
         loop: true,
